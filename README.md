@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Science<br><br>👨‍💻 All of my projects are available at https://github.com/UgurrOnderKarapunar?tab=repositories<br><br>💬 Ask me about Data Science<br><br>📫 How to reach me uguronderkarapunar@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1IJsUvF4PuGhrpJHtKXSO3uGPgip8Kbgk/view?usp=drive_link<br><br>Kaggle WebSite:https://www.kaggle.com/ugurokarapunar<br>
+# 
 
 
 # 💻 Tech Stack:
